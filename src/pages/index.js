@@ -15,7 +15,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Dashboard | Material Kit
+        Nordic Walking
       </title>
     </Head>
     <Box
