@@ -11,8 +11,8 @@ import {
 
 const user = {
   avatar: '/static/images/avatars/avatar_4.png',
-  city: 'Los Angeles',
-  country: 'USA',
+  city: 'Toronto',
+  country: 'Canada',
   jobTitle: 'Senior Developer',
   name: 'Noname McNoNameFace',
   timezone: 'EST'
